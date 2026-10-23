@@ -19,3 +19,9 @@ Fotografías y renders del sitio de referencia https://arjearquitectura.com/, us
 
 ## Publicar
 Compatible con GitHub Pages desde la raíz de la rama main. Todos los enlaces y recursos son relativos para soportar un subdirectorio de repositorio.
+
+## Enlaces
+
+Demo pública: https://zayriaz28.github.io/arquitectura-plantilla-b/
+
+Repositorio: https://github.com/ZAyriaz28/arquitectura-plantilla-b
